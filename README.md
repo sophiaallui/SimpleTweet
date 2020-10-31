@@ -42,6 +42,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 I forgot to follow users on my twitter account, leading me to believe I had a bug.
 Also tried implementing bottom line but cannot do it.
+Coould def spend more time on the UI aspect, will get back to it
 
 ## Open-source libraries used
 
@@ -50,7 +51,7 @@ Also tried implementing bottom line but cannot do it.
 
 ## License
 
-    Copyright [2020] [name of copyright owner]
+    Copyright [2020] [Sophia Lui]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
