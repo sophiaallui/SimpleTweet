@@ -58,8 +58,12 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 **Simple Tweet Pt 1:** 
+
+
 <img src='SimpleTweet.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-**Simple Tweet Pt 1:**
+**Simple Tweet Pt 2:**
+
+
 <img src='SimpleTweetPt2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -71,7 +75,8 @@ I forgot to follow users on my twitter account, leading me to believe I had a bu
 Also tried implementing bottom line but cannot do it.
 Coould def spend more time on the UI aspect, will get back to it
 **Pt2:** 
-I wanted to embody the Twitte theme, but I could not figure out how to implement the live count without the hint disappearing after input 
+I wanted to embody the Twitte theme, but I could not figure out how to implement the live count without the hint disappearing after input
+- made a hintEdit style in style.xml, but when linked the live counter via TextFieldInput, they crashed the model  
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
